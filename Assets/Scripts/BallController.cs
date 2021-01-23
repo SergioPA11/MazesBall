@@ -47,6 +47,6 @@ public class BallController : MonoBehaviour
     private void resetScene()
     {
         //SceneManager.LoadScene(SceneManager.GetSceneByName("SampleScene").buildIndex);
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("SelectLevel");
     }
 }
